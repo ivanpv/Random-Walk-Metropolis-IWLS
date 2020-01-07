@@ -3,7 +3,7 @@ R Programming statistical computing script which calculates a random walk metrop
 
 The Metropolis Hastings algorithm is a beautifully algorithm for producing samples from distributions that may otherwise be difficult to sample from.
 
-Using the function rwmet you will be able to create your own examples. Feel free to modify theta(proposal function), M = sample size and phi.
+Using the function "rwmet" you will be able to create your own examples. Feel free to modify theta(proposal function), M = sample size and phi.
 
 The iterative weighted least squares algorithm calculates the likelihood of a range of x.
 
